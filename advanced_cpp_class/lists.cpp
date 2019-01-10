@@ -106,7 +106,7 @@ public:
 };
 
 
-int main() {
+int main_lists() {
 	// Custom singly linked list test
 	list<int> lst;
 	bool quitFlag = false;
